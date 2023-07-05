@@ -1,3 +1,2 @@
 # Predictive-Models
-Here is a project I'm building for the class "Foundation of Predictive Models" where we need to predict the price of a house. The dataset we use to train the model needed to be analyzed and cleaned 
-Then we separated the dataset to train(80%) the model and then to test it(20%). It is an ongoing project so It will be changed and managed several times.
+I am currently working on a project for my class called "Foundation of Predictive Models," in which we aim to predict house prices. The initial step involved analyzing and cleaning the dataset that we would be using to train our model. Subsequently, we partitioned the dataset into two subsets: 80% for training the model and 20% for testing its performance. Since the project is still in progress, it will undergo multiple modifications and iterations to refine and manage it effectively.
